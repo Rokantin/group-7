@@ -10,7 +10,7 @@ Each exercise is built with a different tool (Kahoot, Educaplay, ...).
 
 ### 🟢 Exercise 1 – Kahoot Quiz
 - **Tool**: Kahoot  
-- **Link**: [Play the quiz]()  
+- **Link**: [Play the quiz](https://play.kahoot.it/v2/lobby?quizId=418f1ff9-56fe-4dc2-aad0-bce4871a188e)  
 - **Description**: A 10-question quiz on modes of operation.
 - **Crypto concept explained**:  
   A mode of operation defines how block ciphers handle data larger than one block by chaining blocks together or generating keystreams.
