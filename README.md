@@ -27,12 +27,12 @@ Each exercise is built with a different tool (Kahoot, Educaplay, ...).
 
 ---
 
-### 🟣 Exercise 3 – Other Tool (e.g., Quizizz, H5P, LearningApps)
-- **Tool**: Quizizz  
-- **Link**: [Try it here](https://quizizz.com/...)  
-- **Description**: Multiple-choice puzzle with exponentiation mod n.  
+### 🟣 Exercise 3 – Crossword (e.g., Quizizz, H5P, LearningApps)
+- **Tool**: CrosswordLabs  
+- **Link**: [Try it here]([https://crosswordlabs.com/view/block-ciphers-aes-des])  
+- **Description**: Ctossword puzzle about AES and DES.  
 - **Crypto concept explained**:  
-  Exponentiation in modular arithmetic is used in **Diffie–Hellman** key exchange and RSA.
+  AES and DES specificities.
 
 ---
 
