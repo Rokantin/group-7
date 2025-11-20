@@ -29,7 +29,7 @@ Each exercise is built with a different tool (Kahoot, Educaplay, ...).
 
 ### 🟣 Exercise 3 – Crossword (e.g., Quizizz, H5P, LearningApps)
 - **Tool**: CrosswordLabs  
-- **Link**: [Try it here]([https://crosswordlabs.com/view/block-ciphers-aes-des])  
+- **Link**: [Try it here](https://crosswordlabs.com/view/block-ciphers-aes-des)  
 - **Description**: Ctossword puzzle about AES and DES.  
 - **Crypto concept explained**:  
   AES and DES specificities.
