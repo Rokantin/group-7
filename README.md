@@ -2,7 +2,7 @@
 
 Welcome to our project!  
 This page contains our 3 interactive exercises on Block Cipher.  
-Each exercise is built with a different tool (Kahoot, Educaplay, ...).
+Each exercise is built with a different tool (Kahoot, Educaplay, CrosswordLabs).
 
 ---
 
@@ -38,8 +38,8 @@ Each exercise is built with a different tool (Kahoot, Educaplay, ...).
 
 ## 📝 Summary
 Through these 3 exercises, we explored:  
-- Modular arithmetic basics.  
-- Inverses in multiplicative groups.  
-- Exponentiation in cryptography.  
+- Modes of operation.  
+- Block cipher.  
+- AES and DES.  
 
 ---
